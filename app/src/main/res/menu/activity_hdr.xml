@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/bottom_menu" android:checkableBehavior="none">
+        <item android:icon="@drawable/login" android:id="@+id/login"
+            android:title="Login / Register"/>
+        <item android:icon="@drawable/login"
+            android:id="@+id/logout" android:title="Logout"/>
+        <item android:icon="@drawable/ic_baseline_contact_mail_24"
+            android:id="@+id/contact_us" android:title="Contact Us"/>
+        <item android:icon="@drawable/ic_baseline_info_24" android:id="@+id/about"
+            android:title="About"/>
+        <item android:icon="@drawable/ic_baseline_lock_24" android:id="@+id/privacy"
+            android:title="Privacy Policy"/>
+        <item android:icon="@drawable/ic_baseline_stars_24" android:id="@+id/rate_us"
+            android:title="Rate Us"/>
+        <item android:icon="@drawable/ic_baseline_share_24"
+            android:id="@+id/share" android:title="Share "/>
+
+    </group>
+</menu>

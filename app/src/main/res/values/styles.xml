@@ -1,0 +1,33 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryYlw</item>
+        <item name="colorPrimaryDark">@color/primaryYlw</item>
+        <item name="colorAccent">@color/black</item>
+    </style>
+
+    <style name="AppTheme.Main" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryYlw</item>
+        <item name="colorPrimaryDark">@color/primaryYlw</item>
+        <item name="colorAccent">@color/black</item>
+    </style>
+    <style name="AppTheme.PopupOverlay">
+        <!--item name="fontFamily">@font/alike_angular</item-->
+    </style>
+    <style name="DialogTheme">
+        <item name="android:windowEnterAnimation">@anim/slide_left</item>
+        <item name="android:windowExitAnimation">@anim/slide_right</item>
+        <!--item name="fontFamily">@font/archivo_black</item-->
+    </style>
+    <style name="DialogTheme1">
+        <item name="android:windowEnterAnimation">@anim/slide_top</item>
+        <item name="android:windowExitAnimation">@anim/slide_bottom</item>
+        <!--item name="fontFamily">@font/archivo_black</item-->
+    </style>
+    <style name="EmptyTheme"> </style>
+</resources>

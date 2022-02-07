@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Job Highlight</string>
+    <string name="copyright_jobhighlight">© 2021 All Rights Reserved.</string>
+    <string name="todo">TODO</string>
+    <string name="search1">eSarkariNaukri</string>
+    <string name="search2">eNaukriBazar</string>
+    <string name="searchGK">general</string>
+    <string name="searchMCQ">mcqexam</string>
+    <string name="navigation_drawer_approval">#wait_approval</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_inner_side">in</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_open_flag">xyz</string>
+    <string name="navigation_drawer_open_flag1">in</string>
+    <string name="navigation_drawer_open_flag2">com</string>
+    <string name="navigation_drawer_open_flag_command">com</string>
+    <string name="navigation_drawer_open_flag_gk">in</string>
+    <string name="navigation_drawer_open_flag_mcq">in</string>
+    <string name="navigation_drawer_outer_side">out</string>
+    <string name="open_error_text">error_code=server_error_505_impulse_error-2033_line_error-X5443xtro0poO88_Ttx</string>
+    <string name="open_text_color">teal</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search</string>
+    <string name="search_jobs">Search Jobs</string>
+    <string name="search_menu_title">Search</string>
+    <string name="search_tag_1">eSarkariNaukri</string>
+    <string name="search_tag_2">eNaukriBazar</string>
+    <string name="search_tag_gk">banglagk</string>
+    <string name="search_tag_mcq">mcqexam</string>
+    <string name="searching_in">jobhighlight</string>
+    <string name="searching_out">jobhighlight</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="type_to_search">Type to search</string>
+    <string name="app_full_name">Job Highlight</string>
+    <string name="OJN">Online Job News</string>
+    <string name="app_adunit">ca-app-pub-3298867377496437/4918370674</string>
+    <string name="app_adcode_id">ca-app-pub-3298867377496437~3522013629</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

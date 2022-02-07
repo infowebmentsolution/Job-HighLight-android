@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665261224382",
+    "project_id": "job-highlight",
+    "storage_bucket": "job-highlight.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665261224382:android:6ae842b1131fb1c12909ef",
+        "android_client_info": {
+          "package_name": "com.infowebmentsolution.jobhighlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665261224382-gha95nff1l0lb0gmej9ggc4ig5sfqpuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN9QGYCdOne8GbrdEiIJweMUreckgxtqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665261224382-gha95nff1l0lb0gmej9ggc4ig5sfqpuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

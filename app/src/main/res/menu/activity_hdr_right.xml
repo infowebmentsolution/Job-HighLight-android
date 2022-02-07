@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:id="@+id/bottom_menu" android:checkableBehavior="none">
+
+        <item android:id="@+id/reload_r" android:title="Reload"/>
+        <item android:id="@+id/privacy_r" android:title="Privacy Policy"/>
+        <item android:id="@+id/rate_us_r" android:title="Rate Us"/>
+        <item android:id="@+id/share_r" android:title="Share "/>
+
+    </group>
+</menu>
